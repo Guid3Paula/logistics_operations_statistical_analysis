@@ -1,4 +1,5 @@
 ## 1. Definição do Problema de Negócio
+  [Portuguese](README.pt-BR.md)  |  [English](README.md)
 
 ### 1.1. Contexto
 
